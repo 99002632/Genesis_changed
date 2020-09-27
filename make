@@ -5,7 +5,7 @@ PROJECT_NAME = ScientificCALC
 BUILD = build
 
 # All source code files
-SRC = main.c\
+SRC = imple/main.c\
 imple/src/calc.c\
 
 # All test source files
