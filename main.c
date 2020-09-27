@@ -1,4 +1,4 @@
-#include <calc.h>
+#include <calculator_operations.h>
 
 /* Status of the operation requested */
 #define VALID   (1)
