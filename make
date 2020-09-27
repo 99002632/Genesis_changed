@@ -10,7 +10,7 @@ imple/src/calc.c\
 
 # All test source files
 TEST_SRC = imple/src/calc.c\
-imple/test/test.c
+imple/test/unit_calc.c
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 
