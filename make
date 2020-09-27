@@ -9,8 +9,8 @@ SRC = imple/main.c\
 imple/src/calc.c\
 
 # All test source files
-TEST_SRC = src/calculator_operations.c\
-test/test_calculator_operations.c
+TEST_SRC = imple/src/calc.c\
+imple/test/test.c
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 
