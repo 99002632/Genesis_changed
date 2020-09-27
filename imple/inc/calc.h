@@ -1,5 +1,5 @@
 /** 
-* @file calculator_operations.h
+* @file calc.h
 * Calculator application with 4 mathematical operations
 *
 */
