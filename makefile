@@ -1,16 +1,16 @@
 # Name of the project
-PROJECT_NAME = ScientificCALC
+PROJECT_NAME = Calculator
 
 # Output directory
 BUILD = build
 
 # All source code files
-SRC = imple/main.c\
-imple/src/calc.c\
+SRC = project_main.c\
+src/calculator_operations.c\
 
 # All test source files
-TEST_SRC = imple/src/calc.c\
-imple/test/unit_calc.c
+TEST_SRC = src/calculator_operations.c\
+test/test_calculator_operations.c
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 
