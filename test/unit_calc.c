@@ -2,7 +2,7 @@
 #include <CUnit/CUnit.h>
 
 /* Modify these two lines according to the project */
-#include <calc.h>
+#include <calculator_operations.h>
 #define PROJECT_NAME    "ScientificCALC"
 
 /* Prototypes for all the test functions */
